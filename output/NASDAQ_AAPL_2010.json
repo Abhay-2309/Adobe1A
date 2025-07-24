@@ -1,0 +1,4725 @@
+{
+  "title": "APPLE INC",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "FORM 10-K",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "(Annual Report)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Filed 10/27/10 for the Period Ending 09/25/10",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Address",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "ONE INFINITE LOOP",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "CUPERTINO, CA 95014",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Telephone",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "(408) 996-1010",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "CIK",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "0000320193",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Symbol",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "AAPL",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "SIC Code",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3571 - Electronic Computers",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Industry",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Computer Hardware",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Sector",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Technology",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Fiscal Year",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "09/30",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "UNITED STATES",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "SECURITIES AND EXCHANGE COMMISSION",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Washington, D.C. 20549",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Form 10-K",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "APPLE INC.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(Exact name of registrant as specified in its charter)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "California",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "94-2404110",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(State or other jurisdiction of incorporation or organization)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(I.R.S. Employer Identification No.)",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "1 Infinite Loop",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Cupertino, California",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "95014",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(Address of principal executive offices)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(Zip Code)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Registrant’s telephone number, including area code: (408) 996-1010",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Common Stock, no par value",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The NASDAQ Global Select Market",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(Title of class)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(Name of exchange on which registered)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "DOCUMENTS INCORPORATED BY REFERENCE",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "PART I",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Item 1.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Business",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Company Background",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Business Strategy",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Business Organization",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Products",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Product Support and Services",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Markets and Distribution",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Competition",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Supply of Components",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Research and Development",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Patents, Trademarks, Copyrights and Licenses",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Foreign and Domestic Operations and Geographic Data",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Seasonal Business",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Warranty",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Backlog",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Environmental Laws",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Employees",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Available Information",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Item 1A.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Risk Factors",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Item 1B.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Unresolved Staff Comments",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Item 2.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Properties",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "10.6 million square feet of building space, primarily in the U.S., and to a lesser extent, in Europe, Japan, Canada, and the Asia-Pacific regions.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Item 3.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Legal Proceedings",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "802.11 wireless communications standards, and acknowledges its commitment to license these patents on fair, reasonable, and non-",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "PART II",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Item 5.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Price Range of Common Stock",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Fourth Quarter",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Third Quarter",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Second Quarter",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "First Quarter",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Holders",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Dividends",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Purchases of Equity Securities by the Issuer and Affiliated Purchasers",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Company Stock Performance",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "500 Composite Index, the S&P Computer Hardware Index, and the Dow Jones U.S. Technology Index on September 30, 2005. Data points on",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "2010 S&P, a division of The McGraw -Hill Companies Inc. All rights reserved.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Copyright",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "2010 Dow Jones & Co. All rights reserved.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Copyright",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "September 30,",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "September 30,",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "September 30,",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "September 30,",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "September 30,",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "September 30,",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "2005",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "2006",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "2007",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Item 6.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Selected Financial Data",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "2007",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "2006",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Item 7.",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Executive Overview",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Critical Accounting Policies and Estimates",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Net Sales",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Change",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Net Sales by Operating Segment:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Mac Unit Sales by Operating Segment:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "481      22%",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "926      17%",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Net Sales by Product:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "0      NM",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Unit Sales by Product:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "164      10%     $",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "149      (11)%     $",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "0      NM",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Fiscal Year 2010 versus 2009",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "2010 compared to 2009. Net sales per Mac unit sold decreased by 4% in 2010 compared to 2009 due primarily to lower average",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Fiscal Year 2009 versus 2008",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Segment Operating Performance",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Gross Margin",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "2008 were a favorable sales mix toward products with higher gross margins and lower commodity and other product costs, which were partially",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Operating Expenses",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "2010 was the capitalization in 2009 of software development costs of $71 million related to Mac OS X Snow Leopard. Although total R&D",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Other Income and Expense",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Provision for Income Taxes",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "2006 and proposed certain adjustments. The Company has contested certain of these adjustments through the IRS Appeals Office. The IRS is",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Liquidity and Capital Resources",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Off-Balance Sheet Arrangements and Contractual Obligations",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Payments",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Payments",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Due in",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Payments",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Payments",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Due in",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Less",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "More",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Than",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Due in",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Due in",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Than",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Total",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "1 Year",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "1-3 Years",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "4-5 Years",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "5 Years",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "Indemnifications",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "Item 7A.",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "Quantitative and Qualitative Disclosures About Market Risk",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "Interest Rate and Foreign Currency Risk Management",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Interest Rate Risk",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Foreign Currency Risk",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "Item 8.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "Financial Statements and Supplementary Data",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "Index to Consolidated Financial Statements",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "Page",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "CONSOLIDATED STATEMENTS OF OPERATIONS",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "Three years ended September 25, 2010",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "CONSOLIDATED BALANCE SHEETS",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "September 25, 2010",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "September 26, 2009",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "ASSETS:",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "LIABILITIES AND SHAREHOLDERS’ EQUITY:",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Accumulated",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Common Stock",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Other",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Total",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Comprehensive",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Shareholders’",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Retained",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Earnings",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Shares",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Amount",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Income/(Loss)",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Equity",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Three years ended September 25, 2010",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Note 1 – Summary of Significant Accounting Policies",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Basis of Presentation and Preparation",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "2008 ended on September 25, 2010, September 26, 2009 and September 27, 2008, respectively, and included 52 weeks each. An additional week",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "Revenue Recognition",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "Shipping Costs",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "Warranty Expense",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "Software Development Costs",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Advertising Costs",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Stock-Based Compensation",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Income Taxes",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Earnings Per Common Share",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Financial Instruments",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Allowance for Doubtful Accounts",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Inventories",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Property, Plant and Equipment",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Long-Lived Assets Including Goodwill and Other Acquired Intangible Assets",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Fair Value Measurements",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Foreign Currency Translation and Remeasurement",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Segment Information",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Business Combinations",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Note 2 – Financial Instruments",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Cash, Cash Equivalents and Marketable Securities",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "September 25, 2010",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "September 26, 2009",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "September 25, 2010",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Adjusted",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Fair",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Cost",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Gains",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Losses",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "September 26, 2009",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Adjusted",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Fair",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Cost",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Gains",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Losses",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "2008 related to such sales. The maturities of the Company’s long-term marketable securities generally range from one year to five years .",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "September 25, 2010",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Less than 12 Months",
+      "page": 63
+    },
+    {
+      "level": "H1",
+      "text": "12 Months or Greater",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Total",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Fair",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Fair",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Fair",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Losses",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Losses",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Loss",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "September 26, 2009",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Less than 12 Months",
+      "page": 63
+    },
+    {
+      "level": "H1",
+      "text": "12 Months or Greater",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Total",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Unrealized",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Fair",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Fair",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Fair",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Losses",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Losses",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Loss",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Derivative Financial Instruments",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Credit",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Credit",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Notional",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Risk",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Notional",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Risk",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Principal",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Amounts",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Principal",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Amounts",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "September 25, 2010",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Fair Value of",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Derivatives Not",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Fair Value of",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Derivatives",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Designated as",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Designated as",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Hedge",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Hedge Instruments",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Instruments",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Total Fair Value",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "September 26, 2009",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Fair Value of",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Derivatives Not",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Fair Value of",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Derivatives",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Designated as",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Designated as",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Hedge",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Hedge Instruments",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Instruments",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Total Fair Value",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Gains/(Losses)",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Gains/(Losses) Recognized – Ineffective",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Gains/(Losses)",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Recognized",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Portion and Amount Excluded from",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Reclassified  from AOCI into",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "in OCI - Effective Portion (c)",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Effectiveness Testing",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Income - Effective Portion (c)",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "September 25,",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "September 26,",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "September 25,",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "September 26,",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "September 25,",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "September 26,",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Location",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 66
+    },
+    {
+      "level": "H1",
+      "text": "2010 (a)",
+      "page": 66
+    },
+    {
+      "level": "H1",
+      "text": "2009 (b)",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Accounts Receivable",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Note 3 – Fair Value Measurements",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Assets/Liabilities Measured at Fair Value on a Recurring Basis",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "September 25, 2010",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Quoted Prices",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Significant",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "in Active",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Other",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Significant",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Markets for",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Observable",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Unobservable",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Identical",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Instruments",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Inputs",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Inputs",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "(Level 2)",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "(Level 3)",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "(Level 1)",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Total (a)",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "September 26, 2009",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Quoted Prices",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Significant",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Other",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Significant",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "in Active",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Observable",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Unobservable",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Markets for",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Identical",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Instruments",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Inputs",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Inputs",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "(Level 1)",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Total (a)",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "(Level 2)",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "(Level 3)",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "September 25, 2010",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Quoted Prices",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Significant",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "in Active",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Other",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Significant",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Markets for",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Observable",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Unobservable",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Identical",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Inputs",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Instruments",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Inputs",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "(Level 1)",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "(Level 2)",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "(Level 3)",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Total (a)",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "September 26, 2009",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Quoted Prices",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Significant",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Other",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Significant",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "in Active",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Observable",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Unobservable",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Markets for",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Identical",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Inputs",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Instruments",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Inputs",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "(Level 1)",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "(Level 3)",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Total (a)",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "(Level 2)",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Note 4 – Consolidated Financial Statement Details",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Property, Plant and Equipment",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Accrued Expenses",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Non-Current Liabilities",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Note 5 – Goodwill and Other Intangible Assets",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Gross",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Net",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Gross",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Net",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Carrying",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Accumulated",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Carrying",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Carrying",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Accumulated",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Carrying",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Amount",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Amortization",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Amount",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Amount",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Amortization",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Amount",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Years",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "Note 6 – Income Taxes",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "2009 and 2008) to income before provision for income taxes for the three years ended September 25, 2010, is as follows (in millions):",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "Uncertain Tax Positions",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "2010 and September 26, 2009, the total amount of gross interest and penalties accrued was $247 million and $291 million, respectively, which is",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Note 7 – Shareholders’ Equity and Stock-Based Compensation",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Preferred Stock",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Comprehensive Income",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Employee Benefit Plans",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "2003 Employee Stock Plan",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "2003 Plan intended to qualify as “performance-based awards” within the meaning of Section 162(m) of the U.S. Internal Revenue Code through",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "1997 Employee Stock Option Plan",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "1997 Director Stock Plan",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "1997 Director Stock Plan (the “Director Plan”) and has been approved by shareholders. As amended, the Director Plan (i) permits the Company",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Restricted Stock Units",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Weighted-",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Average",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Grant",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Number of",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Date  Fair",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Aggregate",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Shares",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Intrinsic Value",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "2009 and 2008, respectively, and were based on the value of the RSUs on their vesting date as determined by the Company’s closing stock price.",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Stock Option Activity",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Outstanding Options",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Weighted-",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Average",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Weighted-",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Remaining",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Contractual",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Aggregate",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Shares",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Average",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Exercise",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Intrinsic",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Available",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Number",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "for Grant",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "of Shares",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Price",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Term",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Value",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "Stock-Based Compensation",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "10 years",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "4.54 years",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "3.41 years",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "6 months",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "6 months",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "6 months",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "Note 8 – Commitments and Contingencies",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "Lease Commitments",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "Years",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "Accrued Warranty and Indemnifications",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 80
+    },
+    {
+      "level": "H3",
+      "text": "Concentrations in the Available Sources of Supply of Materials and Product",
+      "page": 80
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Long-Term Supply Agreements",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Contingencies",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Note 9 – Segment Information and Geographic Data",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 82
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "2008",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "Note 10 – Related Party Transactions and Certain Other Transactions",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "Note 11 – Selected Quarterly Financial Information (Unaudited)",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "2010 and September 26, 2009 (in millions, except per share amounts):",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "First Quarter",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "Fourth Quarter",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "Third Quarter",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "Second Quarter",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "2010",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "2009",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 86
+    },
+    {
+      "level": "H3",
+      "text": "Report of Ernst & Young LLP, Independent Registered Public Accounting Firm",
+      "page": 86
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 87
+    },
+    {
+      "level": "H3",
+      "text": "Report of Ernst & Young LLP, Independent Registered Public Accounting Firm",
+      "page": 87
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 88
+    },
+    {
+      "level": "H3",
+      "text": "Report of KPMG LLP, Independent Registered Public Accounting Firm",
+      "page": 88
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "Item 9.",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "Item 9A.",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "Controls and Procedures",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "Evaluation of Disclosure Controls and Procedures",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "Inherent Limitations Over Internal Controls",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "Management’s Annual Report on Internal Control Over Financial Reporting",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 90
+    },
+    {
+      "level": "H3",
+      "text": "Changes in Internal Control Over Financial Reporting",
+      "page": 90
+    },
+    {
+      "level": "H3",
+      "text": "Item 9B.",
+      "page": 90
+    },
+    {
+      "level": "H3",
+      "text": "Other Information",
+      "page": 90
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "PART III",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Item 10.",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Directors, Executive Officers and Corporate Governance",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Item 11.",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Executive Compensation",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Item 12.",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Item 13.",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Certain Relationships and Related Transactions, and Director Independence",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Item 14.",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Principal Accounting Fees and Services",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "PART IV",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "Item 15.",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "Exhibits, Financial Statement Schedules",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "(a)",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "Documents filed as part of this report",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "(1)",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "All financial statements",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "Index to Consolidated Financial Statements",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "Page",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "(2)",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "Financial Statement Schedules",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "(b)",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "Exhibits required by Item 601 of Regulation S-K",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 93
+    },
+    {
+      "level": "H3",
+      "text": "SIGNATURES",
+      "page": 93
+    },
+    {
+      "level": "H3",
+      "text": "Power of Attorney",
+      "page": 93
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 93
+    },
+    {
+      "level": "H3",
+      "text": "Title",
+      "page": 93
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 93
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "EXHIBIT INDEX",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Incorporated by",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Reference",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Filing Date/",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Period End",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Number",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit Description",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "1997 Employee Stock Option Plan, as amended through October 19, 2001.",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "1997 Director Stock Plan, as amended through February 25, 2010.",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "2003 Employee Stock Plan, as amended through February 25, 2010.",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 95
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 14.1",
+      "page": 96
+    },
+    {
+      "level": "H1",
+      "text": "The way we do business",
+      "page": 96
+    },
+    {
+      "level": "H1",
+      "text": "worldwide",
+      "page": 96
+    },
+    {
+      "level": "H1",
+      "text": "Business Conduct",
+      "page": 97
+    },
+    {
+      "level": "H1",
+      "text": "The way we do business worldwide",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "Apple conducts business ethically, honestly, and in full compliance with all",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "laws and regulations. This applies to every business decision in every area of",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "the company worldwide.",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "Apple’s Principles of Business Conduct",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "Your Responsibilities",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "Retaliation is Not Tolerated",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "Customer and Business",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "Relationships",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "4   Customer Focus",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "9   Confidential Apple Information",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "9   The Apple Identity and Trademarks",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "4   Nondisclosure Agreements",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "4   Third-Party Intellectual Property",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "10   Accuracy of Records and Reports",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "4   Copyright-Protected Content",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "10   Business Expenses",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "5   Giving and Receiving Business Gifts",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "10   Establishing Bank Accounts",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "5   Kickbacks",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "10   Loans, Advances, and Guarantees",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "5   Side Deals or Side Letters",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "10   Money Laundering",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "6   Competition and Trade Practices",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "6   Endorsements",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "6   Open Source Software",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "12   Conflicts of Interest",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "7   Governments as Customers",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "7   Gifts to U.S. Officials",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "13   Personal Investments",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "7   Gifts to Non-U.S. Officials",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "13   Workplace Relationships",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "7   No Bribery or Corruption",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "13   Buying and Selling Stock",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "7   Political Contributions",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "13   Harassment and Discrimination",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "8   Charitable Donations",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "14   Confidential Employee Information",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "8   Hiring Government Employees",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "14   Privacy",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "8   Environment, Health, and Safety",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "14   Publishing Articles",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "8   Community Activities",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "14   Substance Abuse",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "15   Your Obligation to Take Action",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "15   Business Conduct Helpline",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "16   Policies and References",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "4",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 99
+    },
+    {
+      "level": "H1",
+      "text": "Customer and Business",
+      "page": 99
+    },
+    {
+      "level": "H1",
+      "text": "Relationships",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "Customer Focus",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "Customer and Third-Party Information",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "To what extent may I use an existing",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "customer list to market other Apple",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "products or services?",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "Nondisclosure Agreements",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "Where can I learn more about information",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "protection and nondisclosure agreements?",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "Where can I get a nondisclosure",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "agreement?",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "Obtaining and Using Business Intelligence",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "As long as the information helps Apple,",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "why is the source of business intelligence",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "an issue?",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "Third-Party Intellectual Property",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "Copyright-Protected Content",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "May I keep my personal music on my",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "computer at work?",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "5",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 100
+    },
+    {
+      "level": "H1",
+      "text": "Customer and Business",
+      "page": 100
+    },
+    {
+      "level": "H1",
+      "text": "Relationships",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "Giving and Receiving Business Gifts",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "Are business meals, travel, and",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "entertainment considered gifts?",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "Can I avoid these rules if I pay for gifts to",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "customers or business associates myself?",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "Important Note: Certain departments (e.g., Operations and Retail) have more restrictive gift",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "Kickbacks",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "What is an example of a kickback?",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "What is an example of a side deal?",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "Side Deals or Side Letters",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "6",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 101
+    },
+    {
+      "level": "H1",
+      "text": "Customer and Business",
+      "page": 101
+    },
+    {
+      "level": "H1",
+      "text": "Relationships",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "Competition and Trade Practices",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "What can I do if a reseller complains to me",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "about low prices at another reseller?",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "How should I handle customer inquiries",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "about resellers and service providers?",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "Endorsements",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "What is an example of an endorsement?",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "Open Source Software",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "7",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 102
+    },
+    {
+      "level": "H1",
+      "text": "Governments and",
+      "page": 102
+    },
+    {
+      "level": "H1",
+      "text": "Communities",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "Tell me more about pricing products that are sold",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "to governments.",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "Can I avoid a gift limitation by paying for a gift,",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "such as lunch or golf, myself?",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "What is considered a gift to a U.S. or",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "foreign official?",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "Gifts to Non-U.S. Officials",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "Who is considered a government official?",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "No Bribery or Corruption",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "Political Contributions",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "8",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 103
+    },
+    {
+      "level": "H1",
+      "text": "Governments and",
+      "page": 103
+    },
+    {
+      "level": "H1",
+      "text": "Communities",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "Hiring Government Employees",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "What should I do if I’m interested in hiring a",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "current or recent government employee?",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "Environment, Health, and Safety (EHS)",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "How do I get more information regarding",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "Apple’s environmental, health, and safety",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "programs?",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "Community Activities",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "What if I want to get more involved in",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "community activities?",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "9",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 104
+    },
+    {
+      "level": "H1",
+      "text": "Responsibilities to Apple",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "What are assets?",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "Where can I learn more about information",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "protection and nondisclosure agreements?",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "Confidential Apple Information",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "If I believe that it is appropriate to disclose",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "confidential proprietary information to a",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "vendor or other third party, what should I",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "do?",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "The Apple Identity and Trademarks",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "How do I identify confidential Apple",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "information in documents?",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "What if I have a specific question on the",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "use of the Apple name, names of products",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "or services, or the Apple logo?",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "How can I find out more about patents?",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "Apple Inventions, Patents, and Copyrights",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "10",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 105
+    },
+    {
+      "level": "H1",
+      "text": "Responsibilities to Apple",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "Activities Related to Technical Standards",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "Accuracy of Records and Reports",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "How can I learn more about procedures for",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "meals and travel?",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "If I suspect money laundering, what should",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "I do?",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "11",
+      "page": 106
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 106
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 106
+    },
+    {
+      "level": "H1",
+      "text": "Responsibilities to Apple",
+      "page": 106
+    },
+    {
+      "level": "H3",
+      "text": "Tell me more about “legal holds.”",
+      "page": 106
+    },
+    {
+      "level": "H3",
+      "text": "12",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 107
+    },
+    {
+      "level": "H1",
+      "text": "Individual Conduct",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Conflicts of Interest",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Can you give an example of conflicts of",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "interest or potential divided loyalty?",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Am I allowed to develop outside iPhone or",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "iPad apps on my own time?",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "May I occasionally use my Apple email",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "address for my outside business?",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "I’m working on an invention on my own",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "time. Does Apple need to know?",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "May I serve on the board of directors of an",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "outside enterprise or organization?",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "13",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 108
+    },
+    {
+      "level": "H1",
+      "text": "Individual Conduct",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "Personal Investments",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "I have stock in companies that do business",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "with Apple. Is this a problem?",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "Workplace Relationships",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "Buying and Selling Stock",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "How do I know whether information is",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "material?",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "Does Apple’s policy apply to buying or",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "selling stock in other companies?",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "Harassment and Discrimination",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "What is harassment?",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "Need more information?",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "14",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 109
+    },
+    {
+      "level": "H1",
+      "text": "Individual Conduct",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "Where can I learn more about policies on",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "confidential employee information?",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "Is personal information on my computer",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "system private?",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "If I make a presentation on my own time,",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "may I accept a payment?",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "Publishing Articles",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "What if I have a substance abuse issue?",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "15",
+      "page": 110
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 110
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 110
+    },
+    {
+      "level": "H1",
+      "text": "Taking Action",
+      "page": 110
+    },
+    {
+      "level": "H3",
+      "text": "Your Obligation to Take Action",
+      "page": 110
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct Helpline",
+      "page": 110
+    },
+    {
+      "level": "H3",
+      "text": "16",
+      "page": 111
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 111
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 111
+    },
+    {
+      "level": "H1",
+      "text": "Additional Resources",
+      "page": 111
+    },
+    {
+      "level": "H3",
+      "text": "Policies and References",
+      "page": 111
+    },
+    {
+      "level": "H3",
+      "text": "17",
+      "page": 112
+    },
+    {
+      "level": "H3",
+      "text": "Business Conduct",
+      "page": 112
+    },
+    {
+      "level": "H3",
+      "text": "The way we do business worldwide",
+      "page": 112
+    },
+    {
+      "level": "H1",
+      "text": "Additional Resources",
+      "page": 112
+    },
+    {
+      "level": "H3",
+      "text": "2010 Apple Inc. All rights reserved. Apple, the Apple logo, iPhone, iPad, and iTunes are trademarks of Apple Inc.,",
+      "page": 112
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 21.1",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "SUBSIDIARIES OF",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "APPLE INC.*",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "Jurisdiction",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "of Incorporation",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 23.1",
+      "page": 114
+    },
+    {
+      "level": "H3",
+      "text": "Consent of Ernst & Young LLP, Independent Registered Public Accounting Firm",
+      "page": 114
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 23.2",
+      "page": 115
+    },
+    {
+      "level": "H3",
+      "text": "Consent of KPMG LLP, Independent Registered Public Accounting Firm",
+      "page": 115
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 31.1",
+      "page": 116
+    },
+    {
+      "level": "H3",
+      "text": "CERTIFICATIONS",
+      "page": 116
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 31.2",
+      "page": 117
+    },
+    {
+      "level": "H3",
+      "text": "CERTIFICATIONS",
+      "page": 117
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 32.1",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "PURSUANT TO",
+      "page": 118
+    },
+    {
+      "level": "H1",
+      "text": "18 U.S.C. SECTION 1350,",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "AS ADOPTED PURSUANT TO",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002",
+      "page": 118
+    }
+  ]
+}

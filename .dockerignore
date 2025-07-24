@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# Python virtual environment
+venv
+.venv
+env/
+ENV/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editor folders
+.idea/
+.vscode/
+
+# Local testing files
+output/

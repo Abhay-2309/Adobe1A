@@ -1,0 +1,440 @@
+{
+  "title": "Provided proper attribution is provided, Google hereby grants permission to",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "reproduce the tables and figures in this paper solely for use in journalistic or",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "scholarly works.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Attention Is All You Need",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "arXiv:1706.03762v7  [cs.CL]  2 Aug 2023",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Ashish Vaswani∗",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Noam Shazeer∗",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Niki Parmar∗",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Jakob Uszkoreit∗",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Łukasz Kaiser∗",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Llion Jones∗",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Aidan N. Gomez∗†",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Illia Polosukhin∗‡",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Abstract",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "2",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Background",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "3",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Model Architecture",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3.1",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Encoder and Decoder Stacks",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Encoder:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Decoder:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3.2",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Attention",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3.2.1",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Scaled Dot-Product Attention",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3.2.2",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Multi-Head Attention",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3.2.3",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Applications of Attention in our Model",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.3",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Position-wise Feed-Forward Networks",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.4",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Embeddings and Softmax",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.5",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Positional Encoding",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "4",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Why Self-Attention",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "5",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Training",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "5.1",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Training Data and Batching",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2014 English-French dataset consisting of 36M sentences and split tokens into a 32000 word-piece",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "5.2",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Hardware and Schedule",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "5.3",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Optimizer",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "5.4",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Regularization",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1.0 · 1020",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2.3 · 1019",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.4 · 1020",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "9.6 · 1018",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.5 · 1020",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2.0 · 1019",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.2 · 1020",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "8.0 · 1020",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.8 · 1020",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.1 · 1021",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "7.7 · 1019",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.2 · 1021",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "41.29",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "3.3 · 1018",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2.3 · 1019",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "28.4",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "41.8",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Residual Dropout",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Label Smoothing",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "6",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Results",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "6.1",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Machine Translation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "6.2",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Model Variations",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "4.33",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "26.4",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "6.3",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "English Constituency Parsing",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Parser",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Training",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "WSJ 23 F1",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "7",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Acknowledgements",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "References",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Attention Visualizations",
+      "page": 13
+    }
+  ]
+}
